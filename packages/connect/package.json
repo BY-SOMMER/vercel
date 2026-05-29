@@ -50,7 +50,7 @@
   },
   "devDependencies": {
     "@auth/core": "0.37.4",
-    "better-auth": "1.5.5",
+    "better-auth": "1.6.2",
     "experimental-ash": "0.31.0",
     "typescript": "^5"
   },
