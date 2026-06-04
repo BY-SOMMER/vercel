@@ -7,6 +7,6 @@
     "build": "echo ok"
   },
   "devDependencies": {
-    "vitest": "^2.0.0"
+    "vitest": "^4.1.0"
   }
 }
